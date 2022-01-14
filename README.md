@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Styop Tovmasyan.
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning web and desktop development..
+- 🌱 I’m currently learning web and desktop development.
 - 📫 How to reach me: tovmasyan.stepan@gmail.com
